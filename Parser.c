@@ -220,4 +220,4 @@ for (i; i < NUM_OF_REGS; i++)
     }
 
     return i;
-}
+}// edited!
